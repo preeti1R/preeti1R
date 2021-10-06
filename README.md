@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Preeti 
+- 👀 I’m interested in learning new skills
+- 🌱 I’m currently learning Python 
+- 💞️ I’m looking to connect to coding community
